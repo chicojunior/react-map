@@ -25,7 +25,7 @@ export const Navigator = React.createClass({
             <li className="pure-menu-item">
               <Link
                 className="pure-menu-link Navigator__Link"
-                to="/home">Home</Link>
+                to="/">Home</Link>
             </li>
 
 

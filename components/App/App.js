@@ -15,9 +15,7 @@ render: function () {
 
   return (
     <div>
-      <Navigator />
       { this.props.children }
-      <Footer />
     </div>
   );
 }
